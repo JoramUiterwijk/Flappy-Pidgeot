@@ -1,0 +1,6 @@
+Als speler wil ik kunnen springen zodat ik de obstakels kan ontwijken.
+Als speler wil ik dat ik vooruit ga zodat ik bij de obstakels kan komen.
+Als speler wil ik een punt krijgen als ik een obstakel ontwijk.
+Als speler wil ik dood gaan als ik een obstakel raak.
+Als speler wil ik opnieuw kunnen beginnen als ik dood ga.
+Als speler wil ik een begin scherm zodat ik kan kiezen waneer ik begin.
